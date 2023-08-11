@@ -7,4 +7,5 @@ class AppColor {
   static const successColor = Color(0xff1A8D75);
   static const errorColor = Color(0xffB84444);
   static const blackColor = Color(0xff000000);
+  static const whiteColor = Color(0xffFFFFFF);
 }
